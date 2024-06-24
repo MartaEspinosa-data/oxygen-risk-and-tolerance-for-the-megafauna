@@ -1,0 +1,112 @@
+SpeciesCode;Mobility;SpeciesName;CommonName;MajorTaxa;Group;QuantScale
+ac;s;Acanthoptilum sp.;Sea Pen;Cnidaria;Virgulariid;individuals
+ae;m;Mediaster aequalis;Vermillion seastar;Echinodermata;Asteroid;individuals
+an;s;Parazoanthus lucificum;Luminescent Parazoanthid;Cnidaria;Parazoanthid;individuals
+ap;s;Adelogorgia phyllosclera;Orange Gorgonian;Cnidaria;Gorgoniid;individuals
+as;m;Astropecten sp.;Sand Star;Echinodermata;Asteroid;individuals
+ba;m;Patiria miniata;Bat Star;Echinodermata;Asteroid;individuals
+bas;s;Gorgonocephalus eucnemis;Basket Star;Echinodermata;Ophiuroid;individuals
+bc;s;Bugula californica;Spiral Bryozoan;Bryozoa;Bugulid;individuals
+bgo;hm;Rhinogobiops nicholsii;Blackeye Goby;Chordata;Gobiid;individuals
+bgu;hm;Zapteryx exasperata;Banded Guitarfish;Chordata;Rhinobatid;individuals
+bi;m;Octopus californicus;Bigeye Octopus;Mollusca;Octopoda;individuals
+bl;hm;Sebastes melanops;Black Rockfish;Chordata;Sebastid;individuals
+bo;hm;Sebastes paucispinis;Bocaccio;Chordata;Sebastid;individuals
+br;hm;Sebastes auriculatus;Brown Rockfish;Chordata;Sebastid;individuals
+bs;s;*;Boring Sponge;Porifera;Demospongiae;individuals
+ca;hm;Sebates dallii;Calico Rockfish;Chordata;Sebastid;individuals
+cc;m;Centrostephanus coronatus;Coronado Sea Urchin;Echinodermata;Asteroid;individuals
+cd;s;Florometra serratissima;Feather Star;Echinodermata;Crinoid;individuals
+cg;s;Muricea californica;Golden Gorgonian;Cnidaria;Gorgoniid;individuals
+ch;hm;Paralichthus californicus;California Halibut;Chordata;Paralichthyid;individuals
+com;hm;Zaniolepis spp.;Combfish;Chordata;Zaniolepid;individuals
+cp;hm;Chromis punctipinnis;Blacksmith;Chordata;Pomacentrid;log10
+cr;s;Craniella arb;Gray Puffball Sponge;Porifera;Demospongiae;individuals
+cs;m;Conus californicus;California Cone;Mollusca;Conid;individuals
+cu;s;Balanophyllia elegans;Cup Corals;Cnidaria;Caryophylliid;log10
+de;m;Dendraster excentricus;Sand Dollar;Echinodermata;Dendrasterid;log4
+dp;s;Diopatra spp.;Parchment Tubeworm;Annelida;Polychaeta;log4
+eo;m;Ophiura luetkeni;Brokenspine Brittlestar;Echinodermata;Ophiuroid;individuals
+ep;m;*;Eelpout (species unknown);Chordata;Zoarcid;individuals
+eu;s;Eugorgia rubens;Purple gorgonian;Cnidaria;Gorgoniid;individuals
+fej;m;Phacellophora camtschatica;Fried Egg Jelly;Cnidaria;Phacellophoridae;individuals
+fl;hm;Sebastes rubrivinctus;Flag Rockfish;Chordata;Sebastid;individuals
+fo;m;Fusitriton oregonensis;Hairy Triton;Mollusca;Ranellid;individuals
+fr;s;Muricea fruticosa;Brown Gorgonian;Cnidaria;Gorgoniid;individuals
+go;m;*;goby;Chordata;Gobiid;individuals
+ha;m;Haliotis assimilis;Threaded abalone;Mollusca;Haliotid;individuals
+hal;s;Haliclona sp.;Encrusting sponge;Porifera;Demospongiae;individuals
+hb;hm;Sebastes semicinctus;Halfbanded Rockfish;Chordata;Sebastid;log10
+hc;hm;Sebastes umbrosus;Honeycomb Rockfish;Chordata;Sebastid;individuals
+hl;m;Henricia leviuscula;Blood Seastar;Echinodermata;Asteroid;individuals
+ii;m;*;Immature infaunal ophiuroid;Echinodermata;Ophiuroid;log10
+io;m;Multi-Species Complex;Infaunal Ophiuroids;Echinodermata;Ophiuroid;log10
+ir;s;Mazzaella flaccida;Irridescent Algae;Rhodophyta;Gigartinacea;individuals
+jde;m;Dendraster spp. juveniles;Juvenile Sand Dollars;Echinodermata;Dendrasterid;individuals
+jm;hm;Trachurus symmetricus;Jack Mackerel;Chordata;Carangid;log10
+kb;hm;Paralabrax clathratus;Kelp Bass;Chordata;Serranid;log10
+kw;m;Kelletia kelletii;Kellet's Whelk;Mollusca;Buccinid;individuals
+lc;hm;Ophiodon elongatus;Lingcod;Chordata;Hexagrammid;individuals
+lcom;m;Zaniolepis latipinnis;Longspine Combfish;Chordata;Hexagrammid;individuals
+li;m;Megastraea undosa;Wavy Turban;Mollusca;Turbinid;individuals
+ln;s;Leucilla nuttingi;Urn Sponge;Porifera;Calcarea;individuals
+lo;s;Lophogorgia chilensis;Red Gorgonian;Cnidaria;Gorgoniid;individuals
+ls;m;Luidia sarsi;Dark Sand Star;Echinodermata;Asteroid;individuals
+lss;m;Dermasterias imbricata;Leather Sea Star;Echinodermata;Asteroid;individuals
+lu;m;Luidia foliolata;Light Sand Star;Echinodermata;Asteroid;individuals
+ly;m;Lytechinus spp.;White Sea Urchin;Echinodermata;echino;log10
+lz;hm;Synodus lucioceps;California Lizardfish;Chordata;Synodontid;log10
+mc;m;Megathura crenulata;Giant Keyhole Limpet;Mollusca;Fissurellid;individuals
+mr;m;Mitra idae;Ida's Miter;Mollusca;Mitrid;individuals
+ms;m;Hemisquilla californiensis;Mantis Shrimp;Arthropoda;Stomatopod;individuals
+mse;m;Neverita lewisii egg case;Lewis' Moon Snail;Mollusca;Miticid;individuals
+ol;hm;Sebastes serranoides;Olive Rockfish;Chordata;Sebastid;individuals
+ow;hm;Caulolatilus princeps;Ocean Whitefish;Chordata;Malacanthid;individuals
+pa;m;Pagurus armatus;Armed Hermit Crab;Arthropoda;Pagurid;individuals
+pc;m;Parasthichopus californicus;California Sea Cucumber;Echinodermata;Holothuroidea;individuals
+pe;s;Pelagophycus porra;Elk Kelp;Phaeophyta;Laminariaceae;individuals
+pem;s;*;Polychaete Egg Mass;Annelida;Polychaeta;individuals
+pg;m;Pisaster giganteus;Giant Spined Seastar;Echinodermata;Asteroid;individuals
+ph;s;Phyllactis spp.;Sand Anenonme;Cnidaria;Actiniid;individuals
+pi;hm;Panulirus interruptus;California Spiny Lobster;Arthropoda;Panulinurid;individuals
+pl;m;Pleurobranchaea californica;Mottled Sea Slug;Mollusca;Pleurobranchaeidae;individuals
+po;m;*;Possible polychaetes;Annelida;Polychaeta;individuals
+pp;m;Parastichopus parvimensis;Warty Sea Cucumber;Echinodermata;Holothuroidea;individuals
+ppl;s;Polyclinum planum;Elephant Ear Tunicate;Tunicata;Polyclinid;individuals
+ps;hm;Zalembius rosaceus;Pink Seaperch;Chordata;Embiotocid;individuals
+pt;s;Ptilosarcus gurneyi;Orange Sea Pen;Cnidaria;Subselliflorae;individuals
+py;s;Phyllospadix torreyi;Surfgrass, detached clump;Tracheophyta;Zosteraceae;# of clumps
+pyr;m;Pyrosoma atlanticum;Pyrosome Tunicate;Tunicata;Thalliaceanae;individuals
+ra;m;Orthasterias koehleri;Rainbow Seastar;Echinodermata;Asteroid;individuals
+rb;hm;Beringraja binoculata;Big Skate;Chordata;Rajid;individuals
+rh;hm;Rhacochilus vacca;Pile Perch;Chordata;Embiotocid;individuals
+ro;hm;Sebastes rosaceus;Rosy Rockfish;Chordata;Sebastid;individuals
+ru;m;Octopus rubescens;Red Octopus;Mollusca;Octopoda;individuals
+rw;hm;Halichoeres semicinctus;Rock Wrasse;Chordata;Labrid;individuals
+sa;hm;Pegea confoederata;Salp;Tunicata;Thaliacea;individuals
+sb;hm;Sebastes sp.;Rockfish;Chordata;Sebastid;individuals
+sc;hm;Scorpaena guttata;California Scorpionfish;Chordata;Scorpaenid;individuals
+scom;hm;Zaniolepis frenata;Shortspine Combfish;Chordata;Hexagrammid;individuals
+sd;hm;Citharichthys sordidus;Sanddabs;Chordata;Paralichthyid;individuals
+se;hm;Oxyjulis californica;Senorita;Chordata;Labrid;individuals
+sec;s;Cephaloscyllium ventriosum;Swell Shark egg case;Chordata;Scyliorhinid;individuals
+sh;hm;Semicossyphus pulcher;California Sheephead;Chordata;Labrid;individuals
+shc;hm;Loxorhyncus grandis;Sheep Crab;Arthropoda;Epialtid;individuals
+sl;m;Metacarcinus gracilis;Slender Crab;Arthropoda;Cancrid;individuals
+sm;s;Styela montereyensis;Stalked tunicate;Urochordata;Styelid;individuals
+spo;s;*;Unknown sponge;Porifera;Demospongiae;individuals
+sq;hm;Doryteuthis opalescens;Market squid;Mollusca;Loligonid;individuals
+ss;m;Pisaster brevispinus;Shortspined SeaStar;Echinodermata;Asteroid;individuals
+st;s;Stylatula elongata;Slender Sea Pen;Cnidaria;Virgulariid;individuals
+te;s;Tethya aurantia;Orange Puffball Sponge;Porifera;Demospongiae;individuals
+th;s;Thesea sp.;Yellow Sea Twig;Cnidaria;Muriceid;individuals
+ti;hm;Sebastes nigrocinctus;Tiger Rockfish;Chordata;Sebastid;individuals
+tr;hm;Sebastes serriceps;Treefish;Chordata;Sebastid;individuals
+unkss;m;*;Unknown Seastar;Echinodermata;Asteroid;individuals
+vm;s;Virgularia californica;California Sea Pen;Cnidaria;Virgulariid;individuals
+vr;hm;Sebastes miniatus;Vermillion Rockfish;Chordata;Sebastid;individuals
+vs;s;Stylissa stipitata;Vase Sponge;Porifera;Demospongiae;individuals
+wfs;s;Toxadocia spp.;White Finger Sponges;Porifera;Demospongiae;individuals
+xl;hm;Xystreurys liolepis;Fantail Sole;Chordata;Paralichthyid;individuals
+ye;m;Metacarcinus anthonyi;Yellow Crab;Arthropoda;Canchrid;individuals
+za;hm;Zalophus californianus;California Sea Lion;Chordata;Oteriid;individuals
